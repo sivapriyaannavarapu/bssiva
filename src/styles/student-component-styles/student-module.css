@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+
+/* .student-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    padding: 1rem;
+    margin-right: 25vw;
+    padding-bottom:1em;
+} */
+
+
+
+/* Student Info Section */
+/* .student-info-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column; 
+    gap: 1vh;
+    flex: 1 1 auto; 
+    min-height: 0; 
+} */
+
+/* .student-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5vw;
+    flex: 0 0 auto;
+    padding-top:1vh;
+  
+} */
+
+/* .stu-info {
+    font-size: 1.5vw;
+    margin-bottom: 0;
+    margin-top:5px;
+} */
+/* .header-left img{
+    height:45px;
+    width:45px;
+} */
+
+/* .stu-info-sub-para {
+    font-size: 13px;;
+    margin-top: 4px;
+    margin-bottom:5px;
+} */
+ .stu-info {
+  font-size: 1.5vw;
+}
+
+/* Student info sub-paragraph */
+.stu-info-sub-para {
+  font-size: 13px;
+}
+
+/* .header-left {
+    display: flex;
+    align-items: center;
+    gap: 0.5vw;
+    flex: 1;
+} */
+
+/* .info-icon {
+    width: 3vw;
+} */
+
+/* .year-dropdown {
+    padding: 0.4vw 1.2vw;
+     font-size: 1.1vw; 
+    border-color: #555; 
+    border-radius: 0.4vw;
+    font-weight: bolder;
+    flex: 0 0 auto;
+} */
+
+/* .tab-nav{
+    padding-top:1vh;;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5vw;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 0.5vh;
+    flex: 0 0 auto;
+} */
+
+.nav-tabs .nav-item .nav-link {
+    /* font-size: 13px; */
+    /* color: #555; */
+    /* background: none; */
+    border: none;
+    border-radius: 0;
+    /* padding: 0.5rem 1rem; */
+    /* text-decoration: none; */
+}
+
+/* .nav-tabs .nav-item .nav-link.active {
+    color: #0056d2;
+    background: none;
+    border: none;
+    border-bottom: 0.2vh solid #0056d2;
+    border-radius: 0;
+} */
